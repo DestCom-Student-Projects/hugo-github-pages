@@ -8,3 +8,16 @@ Content = "Salam aleykoum !"
 [[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/watch?v=orEyj5AFMKM"
+[[menu.main]]
+identfier = "archives"
+name = "Archives"
+url = "/archives/"
+[[menu.main]]
+identfier = "search"
+name = "Search"
+url = "/search/"
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+[params]
+ShowBreadCrumbs = true
+
