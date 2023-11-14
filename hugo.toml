@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-fr'
+title = 'Non, non, non. Pas de ça ici. bonjour !'
+theme = "PaperMod"
