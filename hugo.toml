@@ -2,3 +2,9 @@ baseURL = 'https://destcom-student-projects.github.io/hugo-github-pages/'
 languageCode = 'fr-fr'
 title = 'Non, non, non. Pas de ça ici. bonjour !'
 theme = "PaperMod"
+[params.homeInfoParams]
+Title = "Ici on parle france !"
+Content = "Salam aleykoum !"
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/watch?v=orEyj5AFMKM"
