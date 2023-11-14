@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://destcom-student-projects.github.io/hugo-github-pages/'
 languageCode = 'fr-fr'
 title = 'Non, non, non. Pas de ça ici. bonjour !'
 theme = "PaperMod"
