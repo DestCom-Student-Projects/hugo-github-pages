@@ -9,7 +9,7 @@ Content = "Salam aleykoum !"
 name = "youtube"
 url = "https://www.youtube.com/watch?v=orEyj5AFMKM"
 [[menu.main]]
-identfier = "archives"
+identifier = "archives"
 name = "Archives"
 url = "/archives/"
 [[menu.main]]
