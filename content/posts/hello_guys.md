@@ -1,5 +1,7 @@
 ---
 title: "GAY"
+date: 2023-11-14
+draft: false
 ---
 
 C'est incroyable les dernieres news sont tombées, apparemment t'es gay !
